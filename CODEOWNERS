@@ -96,5 +96,5 @@
 # - Issue label: CLI
 # - Primary owner(s): @agnes512
 # - Standby owner(s): @emonddr @nabdelgadir
-/packages/cli/ @bajtos
+packages/cli/ @bajtos
 
