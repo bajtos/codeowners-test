@@ -88,7 +88,7 @@
 # For longer term, we may want to re-organize doc files around functional
 # areas (create a new subdirectory for each functional area), so that
 # we can assign more specific code owners to different doc pages.
-/docs/ @bajtos
+/docs @bajtos
 
 #
 # CLI (`lb4` infrastructure, commands not covered by functional areas below)
@@ -96,5 +96,5 @@
 # - Issue label: CLI
 # - Primary owner(s): @agnes512
 # - Standby owner(s): @emonddr @nabdelgadir
-/packages/cli/ @bajtos
+/packages/cli @bajtos
 
